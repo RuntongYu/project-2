@@ -1,0 +1,47 @@
+@font-face
+	{
+        font-family: Athelas;
+        src: url('Fonts/Athelas.ttc')
+	}
+
+    @font-face
+	{
+        font-family: EuphemiaCAS;
+        src: url('Fonts/EuphemiaCAS.ttc')
+	}
+
+    @font-face
+	{
+        font-family: Georgia;
+        src: url('Fonts/Georgia.ttf')
+	}
+
+    @font-face
+	{
+        font-family: GeorgiaBold;
+        src: url('Fonts/Georgia\ Bold.ttf')
+	}
+
+    @font-face
+	{
+        font-family: GeorgiaItalic;
+        src: url('Fonts/Georgia\ Italic.ttf')
+	}
+
+    @font-face
+	{
+        font-family: MuktaMahee;
+        src: url('Fonts/MuktaMahee.ttc')
+	}
+
+    @font-face
+	{
+        font-family: MyriadPro;
+        src: url('Fonts/MyriadPro-Regular.otf')
+	}
+
+    @font-face
+	{
+        font-family: NewYork;
+        src: url('Fonts/NewYork.ttf')
+	}
